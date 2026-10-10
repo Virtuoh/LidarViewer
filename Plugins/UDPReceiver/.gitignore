@@ -1,0 +1,19 @@
+# Ignore temporary files
+Binaries/
+Intermediate/
+DerivedDataCache/
+.vs/
+*.sln
+*.opensdf
+*.log
+*.tmp
+*.o
+*.obj
+*.pdb
+*.exe
+
+# Ignore saved data
+Saved/
+
+# Ignore user-specific files
+*.user
